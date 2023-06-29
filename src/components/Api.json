@@ -1,0 +1,41 @@
+
+  {
+    "cities": [
+      {
+        "name": "Delhi",
+        "weather": "Sunny",
+        "temperature": 34,
+        "humidity": 58,
+        "wind_speed": 12
+      },
+      {
+        "name": "Mumbai",
+        "weather": "Cloudy",
+        "temperature": 29,
+        "humidity": 82,
+        "wind_speed": 8
+      },
+      {
+        "name": "Kolkata",
+        "weather": "Rainy",
+        "temperature": 26,
+        "humidity": 75,
+        "wind_speed": 10
+      },
+      {
+        "name": "Chennai",
+        "weather": "Partly Cloudy",
+        "temperature": 31,
+        "humidity": 68,
+        "wind_speed": 6
+      },
+      {
+        "name": "Bangalore",
+        "weather": "Thunderstorms",
+        "temperature": 25,
+        "humidity": 85,
+        "wind_speed": 14
+      }
+    ]
+  }
+  
